@@ -1,0 +1,55 @@
+ul#menu li {
+	display: inline-block;
+	padding-right: 2em;
+	padding-left: 1em;
+	text-align: center;
+	font-size: 18;
+}
+
+ul#menu a {
+	text-decoration: none;
+}
+
+#menu li.active a{
+	background: blue;
+	padding: .5em 2em .5em 2em;
+	color: white;	
+}
+
+#primary{
+	line-height: 1.5em;
+}
+
+#secondary{
+	line-height: 1.5em;
+}
+
+#footer {
+  font-size: 8;
+  background: #8e9aaf;
+  color: #ffffff;
+  padding: 3px;
+}
+
+#traveltip{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  border-style: none;
+
+  background-color: #a7cece;
+
+  margin: 25px;
+  padding: 10px;
+  padding-left: 50px;
+  margin-right: 50px;
+  line-height: 1.9em;
+  
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: left;
+  color: black;
+}
+
